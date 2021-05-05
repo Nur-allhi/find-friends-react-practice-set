@@ -1,0 +1,21 @@
+.mainDivofDetails {
+  display: flex;
+  justify-content: space-evenly;
+  border-right: 2px solid gray;
+}
+
+.mainDivofDetails img {
+  width: 250px;
+  height: 200px;
+}
+.detailsDiv {
+  border: 2px solid slategrey;
+  border-radius: 10px;
+  margin: 10px;
+  width: 300px;
+  padding: 10px;
+}
+.addBtn {
+  background-color: rgb(62, 146, 146);
+  border-radius: 6px;
+}
